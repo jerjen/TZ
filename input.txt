@@ -1,0 +1,33 @@
+
+out1.txt
+test1
+!
+ test test test test2
+!
+ tes
+!
+t3
+out2.txt
+abcd
+!
+ ef
+!
+g
+!
+ hijk
+!
+
+!
+lmnop
+out3.txt
+palms
+!
+ kne
+!
+es arm
+!
+s spa
+!
+ghet
+!
+ti
